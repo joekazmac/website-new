@@ -1,0 +1,22 @@
+#background {
+	background-image: url("https://images.alphacoders.com/482/thumb-1920-482000.jpg");
+}
+
+.headers {
+	color: darkblue;
+	text-align: center;
+}
+
+.list {
+	color: black;
+	text-align: center;
+}
+
+.noBullet {
+	list-style-type: none;
+}
+
+#Button {
+	background-color: black;
+	color: white;
+}
