@@ -3,7 +3,6 @@
 }
 
 .headers {
-	color: darkblue;
 	text-align: center;
 }
 
@@ -19,4 +18,12 @@
 #Button {
 	background-color: black;
 	color: white;
+}
+
+.container {
+    padding: 16px;
+}
+
+.header1 {
+	color: red;
 }
